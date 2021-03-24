@@ -1,4 +1,4 @@
-network_hashrate= 168 * 10**18 # 168 EH/s
+network_hashrate= 193 * 10**18 # 168 EH/s
 power = 51 # share of the hashrate the attacker wants to control
 network_power = 100 - power
 kwh_price = 0.01 # suppose 0.01$ for 1KWh (could be much less)
